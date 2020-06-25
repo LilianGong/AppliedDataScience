@@ -1,4 +1,4 @@
-#### Brief for the problems : 
+#### Problem Brief : 
 
 Problem 1 : apply Principal Component Analysis to stock market index dat.   
 
